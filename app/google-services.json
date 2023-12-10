@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725582801691",
+    "project_id": "pictroview-2417c",
+    "storage_bucket": "pictroview-2417c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725582801691:android:beadd67113f60bbd8cc1be",
+        "android_client_info": {
+          "package_name": "com.example.pictroviews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzvdVEksZJBFa0YHzpnW_CtxS-Iy72i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
